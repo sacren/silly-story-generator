@@ -1,0 +1,3 @@
+---
+layout: silly-story-generator
+---
