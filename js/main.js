@@ -41,6 +41,8 @@ function result () {
 
   if (customName.value !== '') {
     var name = customName.value
+
+    newStory = newStory.replace('Bob', name)
   }
 
   if (document.getElementById('uk').checked) {
