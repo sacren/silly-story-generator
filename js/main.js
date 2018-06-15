@@ -46,7 +46,7 @@ function result () {
   }
 
   if (document.getElementById('uk').checked) {
-    var weight = Math.round(300)
+    var weight = Math.round(300 * 0.071429) + ' stone'
     var temperature = Math.round(94)
   }
 
