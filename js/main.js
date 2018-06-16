@@ -52,6 +52,6 @@ function result () {
     newStory = newStory.replace('94 farenheit', temperature).replace('300 pounds', weight)
   }
 
-  story.textContent = null
+  story.textContent = newStory
   story.style.visibility = 'visible'
 }
