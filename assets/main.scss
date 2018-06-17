@@ -8,8 +8,12 @@ label {
   font-weight: bold;  
 }
 
-.div {
-  padding-bottom: 20px;
+main {
+  div {
+    div {
+      padding-bottom: 20px;
+    }
+  }
 }
 
 .input[type="text"] {
