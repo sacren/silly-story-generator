@@ -4,14 +4,13 @@
 
 @import "minima";
 
-label {
-  font-weight: bold;  
-}
-
 main {
   div {
     div {
       padding-bottom: 20px;
+      label {
+        font-weight: bold;
+      }
       input[type="text"] {
         padding: 5px;
         width: 150px;
