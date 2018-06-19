@@ -1,3 +1,3 @@
 ---
-layout: silly-story-generator
+layout: simple-story-generator
 ---
