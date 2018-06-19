@@ -1,6 +1,6 @@
 # _config.yml of silly-story-generator
 
-title: Silly Story Generator
+title: Simple Story Generator
 description: >- # this means to ignore newlines until "baseurl:"
   A fun app that generates random silly stories
 baseurl: /silly-story-generator
