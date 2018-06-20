@@ -2,7 +2,7 @@
 
 title: Simple Story Generator
 description: >- # this means to ignore newlines until "baseurl:"
-  A fun app that generates random silly stories
+  A fun app that generates random stories
 baseurl: /simple-story-generator
 
 author: © 2018 Jεan Sacren
