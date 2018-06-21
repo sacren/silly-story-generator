@@ -48,7 +48,7 @@ jQuery(function ($) {
       newStory = newStory.replace('94 farenheit', temperature).replace('300 pounds', weight)
     }
 
-    story.textContent = newStory
+    $('.story').text(newStory)
     story.style.visibility = 'visible'
   })
 })
